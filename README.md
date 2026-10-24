@@ -21,8 +21,6 @@ The project covers selected CRM workflows involving:
 - Contacts
 - Tasks
 
-*Note: The scenarios listed above should reflect the workflows implemented in the source code.*
-
 ## Project Structure
 
 The project uses a Maven project configuration (`pom.xml`) and Java test source files.
